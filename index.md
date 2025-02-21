@@ -1,15 +1,16 @@
-# LLM Agent Notes
+Hi, I’m Sumit Tyagi, an experienced ML engineer constantly expanding my knowledge in the AI domain. I started this blog series to share my learnings along the way. I believe that you don’t have to be an expert to share knowledge—what matters is having valuable experiences that others can learn from.
 
-This website contains notes from an LLM Agents course. It covers concepts related to Large Language Model (LLM) agents, their architecture, use cases, and how they can be integrated into various applications.
+## What's currently on the plate?
+Current blog series explores the fundamentals and advanced concepts of LLM agents, providing insights into their capabilities and practical applications. Topics covered include:
 
-## What are LLM Agents?
-
-LLM Agents are AI-powered systems that leverage large language models to perform tasks autonomously. They can interpret natural language inputs, execute commands, and interact with external systems. These agents are widely used in automation, customer support, data analysis, and software development.
-
-## Topics Covered
-- Introduction to LLM Agents
-- Agent Architectures
-- Prompt Engineering
-- Tool Use and API Integration
-- Autonomous Agents and Planning
-- Real-World Applications
+- **Foundation of LLMs**
+- **Reasoning**
+- **Planning and Tool Use**
+- **LLM Agent Infrastructure**
+- **Retrieval-Augmented Generation**
+- **Code Generation and Data Science**
+- **Multimodal Agents and Robotics**
+- **Evaluation and Benchmarking on Agent Applications**
+- **Privacy, Safety, and Ethics**
+- **Human-Agent Interaction, Personalization, and Alignment**
+- **Multi-Agent Collaboration**
