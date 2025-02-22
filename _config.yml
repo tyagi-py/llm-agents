@@ -3,7 +3,3 @@ title: Neural Reflections
 author: Sumit Tyagi
 
 description: Blogs on AI/ ML advancements, research, and applications.
-
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
