@@ -1,4 +1,7 @@
-# Hi, I’m Sumit Tyagi
+---
+title: "Hi, I’m Sumit Tyagi"
+
+---
 
 an experienced ML engineer constantly expanding my knowledge in the AI domain. I started this blog series to share my learnings along the way. I believe that you don’t have to be an expert to share knowledge—what matters is having valuable experiences that others can learn from.
 
