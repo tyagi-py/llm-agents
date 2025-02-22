@@ -143,7 +143,7 @@ Some researchers explored how generating a chain of thought, i.e., a series of i
 
 The following figure shows the model is able to solve problems accurately if we provide the intermediate reasoning:
 
-![Difference between standard prompting and Chain-of-Thought Prompting](../assets/images/2024-02-22-LLM-Reasoning-cot-prompting.png)
+![Difference between standard prompting and Chain-of-Thought Prompting](/assets/images/2024-02-22-LLM-Reasoning-cot-prompting.png)
 
 Chain-of-Thought Prompting significantly outperformed Standard Prompting on each benchmark with similar results for all models.
 
@@ -218,7 +218,7 @@ They said:
 
 The following snippet from the same paper demonstrates how we can incite reasoning capabilities just by mentioning "Let's think step by step":
 
-![alt text](../assets/images/2024-02-22-LLM-Reasoning-lets-think-step-by-step.png)
+![alt text](/assets/images/2024-02-22-LLM-Reasoning-lets-think-step-by-step.png)
 
 > Zero-shot is cool but usually significantly worse than few-shot.
 
@@ -234,7 +234,7 @@ A research paper by Michihiro Yasunaga [arXiv:2310.01714 [cs.LG]](https://arxiv.
 
 Below is the snippet from the paper comparing analogical reasoning with other methods.
 
-![alt text](../assets/images/2024-02-22-LLM-Reasoning-analogical-reasoning.png)
+![alt text](/assets/images/2024-02-22-LLM-Reasoning-analogical-reasoning.png)
 
 > Is there a way to induce step-by-step reasoning even without using any specific prompt like "Think step-by-step"?
 
@@ -245,7 +245,7 @@ The idea is that LLMs are trained on data that already has a lot of step-by-step
 
 The following figure shows decoded paths by considering alternative tokens.
 
-![alt text](../assets/images/2024-02-22-LLM-Reasoning-cot-without-prompting.png)
+![alt text](/assets/images/2024-02-22-LLM-Reasoning-cot-without-prompting.png)
 
 We can further improve it by adding self-consistency [arXiv:2203.11171 [cs.CL]](https://arxiv.org/abs/2203.11171). It first samples a diverse set of reasoning paths instead of only taking the greedy one, and then selects the most consistent answer by marginalizing out the sampled reasoning paths.
 
